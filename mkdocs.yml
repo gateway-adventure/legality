@@ -1,0 +1,8 @@
+site_name: Gateway Adventure Documentation
+site_url: https://gatewayadventure.app/
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+  - Terms of Service: terms-of-service.md
+  - Privacy Policy: privacy-policy.md
