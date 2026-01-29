@@ -1,9 +1,0 @@
-site_name: Gateway Adventure Docs
-site_url: https://your-username.github.io
-site_description: Official Documentation for Gateway Adventure
-theme:
-  name: material
-nav:
-  - Home: index.md
-  - Privacy Policy: privacy.md
-  - Terms of Service: terms.md
