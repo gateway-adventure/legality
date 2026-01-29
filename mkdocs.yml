@@ -1,8 +1,9 @@
-site_name: Gateway Adventure Documentation
-site_url: https://gatewayadventure.app/
+site_name: Gateway Adventure Docs
+site_url: https://your-username.github.io
+site_description: Official Documentation for Gateway Adventure
 theme:
-  name: mkdocs
+  name: material
 nav:
   - Home: index.md
-  - Terms of Service: terms-of-service.md
-  - Privacy Policy: privacy-policy.md
+  - Privacy Policy: privacy.md
+  - Terms of Service: terms.md

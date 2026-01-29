@@ -1,28 +1,11 @@
-\# Gateway Adventure Documentation
+# Welcome to Gateway Adventure Docs
 
+Welcome to the official documentation for **Gateway Adventure**. Here, you can find all the information and guidelines for our services.
 
-
-Welcome to the official documentation for \*\*Gateway Adventure\*\*.
-
-
-
-Use the navigation on the left to explore our policies:
-
-
-
-\- \*\*terms of service\*\*
-
-\- \*\*Privacy Policy\*\*
-
-
+## About Us
+Gateway Adventure provides immersive and exciting adventures. Explore new destinations with us and make unforgettable memories!
 
 ---
 
-
-
-🔗 \*\*Return to the Web App\*\*  
-
-\[https://gatewayadventure.app](https://gatewayadventure.app)
-
-
-
+[Privacy Policy](privacy.md) | [Terms of Service](terms.md)
+ 
