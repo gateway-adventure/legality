@@ -8,4 +8,3 @@ Gateway Adventure provides immersive and exciting adventures. Explore new destin
 ---
 
 [Privacy Policy](privacy.md) | [Terms of Service](terms.md)
- 
